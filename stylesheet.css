@@ -1,0 +1,84 @@
+body {
+  background-color: #1C1C1C;
+  overflow-x: hidden;
+  margin: 0;
+}
+header{
+	background-image: url("C:/Users/cse20-065/Desktop/WMD Files/images/logo1.png");
+	height: 130px;
+	letter-spacing: 5px;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 133px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+h1{
+	color: white;
+}
+
+h2{
+	color: white;
+}
+h3{
+	color: white;
+}
+aside{
+	background-image: url("C:/Users/cse20-065/Desktop/WMD Files/images/wallpapersden.com_the-last-of-us-part-2-grounded_3840x2160.jpg");
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	float: right;
+	width: 100%;
+	height: 500px;
+	padding: 5px;	
+}
+article{
+	
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p {
+  color: #BDBDBD;
+}
+ul{
+	color: white;
+}
+footer{
+	height: 400px;
+	background-color: #000000;
+	color: #585858;
+	width: 100%;
+	position: absolute;
+}
